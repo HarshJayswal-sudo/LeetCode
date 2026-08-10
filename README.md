@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0053-maximum-subarray) |
 | [0239-sliding-window-maximum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0053-maximum-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Tree
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
