@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0046-permutations) |
 | [0239-sliding-window-maximum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
