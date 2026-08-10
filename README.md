@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
