@@ -11,20 +11,7 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root,vector<vector<int>>& d){
-        if(root == nullptr) return;
-        for(int i=0; i<d.size(); i++){
-            if(root->val == d[i][0]){
-                if(d[i][2] == 1){
-                    root->left = new TreeNode(d[i][1]);
-                }else{
-                    root->right = new TreeNode(d[i][1]);
-                }
-            }
-        }
-        helper(root->left,d);
-        helper(root->right,d);
-    }
+    
     TreeNode* createBinaryTree(vector<vector<int>>& d) {
         TreeNode* root;
         unordered_map<int, TreeNode*> node;
