@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1046-last-stone-weight) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
