@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool isSafe(int n, vector<string>board,int row , int col){
-        for(int i = 0;i<n;i++){
+        for(int i = 0;i<col;i++){
             if(board[row][i] == 'Q') return false;
         }
-        for(int i = 0;i<n;i++){
+        for(int i = 0;i<row;i++){
             if(board[i][col] == 'Q') return false;
         }
 
