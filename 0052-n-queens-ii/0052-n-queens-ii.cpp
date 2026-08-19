@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool isSafe(int n, vector<string>board,int row , int col){
-        if(row < 0 || row >= n || col < 0 || col >= n) return false;
         for(int i = 0;i<n;i++){
             if(board[row][i] == 'Q') return false;
         }
