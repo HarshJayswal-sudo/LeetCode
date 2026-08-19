@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0051-n-queens) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0051-n-queens) |
