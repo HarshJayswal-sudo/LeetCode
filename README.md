@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Queue
 |  |
