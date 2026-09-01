@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
