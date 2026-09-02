@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
