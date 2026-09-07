@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
