@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0048-rotate-image) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0053-maximum-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Tree
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
