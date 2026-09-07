@@ -1,60 +1,36 @@
 class Solution {
 public:
-    bool helper(int src, vector<bool>& vis, vector<bool>& rec,
-                vector<vector<int>>& edg) {
-        vis[src] = true;
-        rec[src] = true;
-        for (int i = 0; i < edg.size(); i++) {
-            int u = edg[i][1];
-            int v = edg[i][0];
-            if (u == src) {
-                if (!vis[v]) {
-                    if (helper(v, vis, rec, edg)) {
-                        return true;
-                    }
-                } else {
-                    if (rec[v]) {
-                        return true;
-                    }
-                }
-            }
+    void inoder(vector<int>& ino,vector<vector<int>>& edg){
+        for(int i=0;i<edg.size();i++){
+            ino[edg[i][0]]++;
         }
-        rec[src] = false;
-        return false;
     }
-    void toposort(int src, vector<bool>& vis, stack<int>& s,
-                  vector<vector<int>>& edg) {
-        vis[src] = true;
-        for (int i = 0; i < edg.size(); i++) {
-            int u = edg[i][1];
-            int v = edg[i][0];
-            if (u == src) {
-                if (!vis[v]) {
-                    toposort(v, vis, s, edg);
-                }
-            }
-        }
-        s.push(src);
-    }
-    vector<int> findOrder(int n, vector<vector<int>>& edg) {
-        vector<bool> vis(n, false);
-        vector<bool> rec(n, false);
-        vector<int> ans;
-        for (int i = 0; i < vis.size(); i++) {
-            if (helper(i, vis, rec, edg)) {
-                return ans;
-            }
-        }
-        stack<int> s;
-        vector<bool> vis2(n, false);
-        for (int i = 0; i < vis2.size(); i++) {
-            if(!vis2[i])toposort(i, vis2, s, edg);
+    vector<int> khans(vector<int>& ino,vector<vector<int>>& edg){
+        queue<int>q;
+        vector<int>ans;
+        for(int i=0;i<ino.size();i++){
+            if(ino[i]==0) q.push(i);
         }
 
-        while (!s.empty()) {
-            ans.push_back(s.top());
-            s.pop();
+        while(!q.empty()){
+            int u = q.front();
+            q.pop();
+            ans.push_back(u);
+            for(int i=0;i<edg.size();i++){
+                if(u == edg[i][1]){
+                    ino[edg[i][0]]--;
+                    if(ino[edg[i][0]] == 0){
+                        q.push(edg[i][0]);
+                    }
+                }
+            }
         }
         return ans;
+    }
+    vector<int> findOrder(int n, vector<vector<int>>& edg) {
+        vector<int>ino(n, 0);
+        inoder(ino,edg);
+        vector<int> ans=khans(ino,edg);
+        return ans.size() == n ? ans : vector<int>();
     }
 };
