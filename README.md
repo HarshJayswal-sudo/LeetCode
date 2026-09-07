@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0295-find-median-from-data-stream) |
