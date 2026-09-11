@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -423,8 +426,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
