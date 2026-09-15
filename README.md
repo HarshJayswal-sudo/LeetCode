@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
 | [1584-min-cost-to-connect-all-points](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
