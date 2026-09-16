@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0994-rotting-oranges) |
 ## Algorithm X
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
