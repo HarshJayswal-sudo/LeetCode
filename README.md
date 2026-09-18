@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Simulation
@@ -478,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
