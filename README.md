@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
