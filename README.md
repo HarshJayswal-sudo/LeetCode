@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
