@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -498,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
