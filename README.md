@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3693-climbing-stairs-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Tree
 |  |
 | ------- |
