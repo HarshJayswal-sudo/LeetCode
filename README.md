@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3693-climbing-stairs-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Tree
 |  |
