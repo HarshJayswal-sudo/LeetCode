@@ -1,10 +1,9 @@
 class Solution(object):
-    def canJump(self, nums):
-        ans = nums[0]
-        for i in range(1,len(nums)):
-            if ans >= i:
-                ans = max(ans,i+nums[i])
-            else:
+   def canJump(self,nums):
+        farthest = 0
+        for i in range(len(nums)):
+            if i > farthest:  # can't reach this index
                 return False
-        
+            farthest = max(farthest, i + nums[i])
         return True
+ 
