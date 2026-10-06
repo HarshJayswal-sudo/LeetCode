@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0312-burst-balloons](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0509-fibonacci-number) |
