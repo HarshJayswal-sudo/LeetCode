@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3693-climbing-stairs-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1143-longest-common-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -548,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
