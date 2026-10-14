@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1092-shortest-common-supersequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1092-shortest-common-supersequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Rolling Hash
 |  |
