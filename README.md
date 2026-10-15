@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0198-house-robber) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0101-symmetric-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0096-unique-binary-search-trees](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0101-symmetric-tree) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0509-fibonacci-number) |
