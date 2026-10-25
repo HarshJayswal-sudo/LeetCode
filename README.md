@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3693-climbing-stairs-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Tree
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0765-couples-holding-hands](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0765-couples-holding-hands) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
