@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0509-fibonacci-number) |
 ## Quickselect
 |  |
@@ -635,4 +639,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
