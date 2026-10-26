@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0053-maximum-subarray) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0072-edit-distance) |
@@ -628,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
