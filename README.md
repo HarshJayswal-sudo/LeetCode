@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0055-jump-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
