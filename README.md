@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -640,10 +644,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Bracket Sequences
 |  |
@@ -661,4 +667,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
