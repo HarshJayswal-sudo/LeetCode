@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Heap (Priority Queue)
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
