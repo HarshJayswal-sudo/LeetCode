@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0685-redundant-connection-ii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -695,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
