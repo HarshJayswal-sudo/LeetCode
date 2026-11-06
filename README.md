@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0496-next-greater-element-i](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3731-find-missing-elements](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3731-find-missing-elements) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Queue
 |  |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bubble Sort
 |  |
 | ------- |
