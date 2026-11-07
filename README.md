@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0897-increasing-order-search-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Queue
 |  |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Bubble Sort
 |  |
 | ------- |
