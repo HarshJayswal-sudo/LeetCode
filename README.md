@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0242-valid-anagram) |
