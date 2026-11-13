@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Tree
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0765-couples-holding-hands](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/0765-couples-holding-hands) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshJayswal-sudo/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Bit Manipulation
 |  |
 | ------- |
